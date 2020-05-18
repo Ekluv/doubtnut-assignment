@@ -1,0 +1,2 @@
+require('./userRoutes');
+require('./questionRoutes');
