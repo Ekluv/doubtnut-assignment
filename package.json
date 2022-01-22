@@ -27,7 +27,7 @@
     "koa-send": "^5.0.0",
     "koa-static": "^5.0.0",
     "mongoose": "^5.9.14",
-    "nanoid": "^2.0.1",
+    "nanoid": "^3.1.31",
     "node-cron": "^2.0.3",
     "nodemailer": "^6.4.6",
     "parameter": "^3.5.0"
